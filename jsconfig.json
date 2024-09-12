@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "app",
+    "paths": {
+      "@/*": ["./*"] // mendefinisikan file root directory
+    }
+  },
+  "include": ["app"]
+}
